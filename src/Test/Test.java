@@ -3,7 +3,11 @@ public class Test {
     static int a=2;
     int b=4;
     public static void main(String args[]) throws InterruptedException{
-    
+        wkjjbgibe
+                'ejghweiugejfoihbwe
+                        bwefihbvweig
+                        rgnuier
+                                brgo'
     }
     void  c(){
         System.out.println("instance method:"+a);
